@@ -29,6 +29,7 @@ export default {
   plugins: [
     '~/plugins/fontawesome.js',
     '~/plugins/anime.js',
+    '~/plugins/vuelidate',
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
